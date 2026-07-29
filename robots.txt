@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liuguangaiai.github.io/qwen-compare-ai-liuguang/sitemap.xml
